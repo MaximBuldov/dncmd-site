@@ -16,7 +16,6 @@ export const metadata: Metadata = {
   title: "Studio DanceMode",
   description: "Studio DanceMode",
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
